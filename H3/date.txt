@@ -1,0 +1,6 @@
+Andrei Popescu;35;Bucuresti
+Maria Ionescu;29;Brasov
+Ioana Georgescu;42;Cluj
+Vasile Enache;55;Bacau
+Loredana Stan;31;Timisoara
+Cristian Pavel;38;Bucuresti
